@@ -1,1 +1,5 @@
-
+title: Reducing Hallucinations in LVLMs
+#logo
+description: My thesis (in progress) on reducing the hallucinations on LVLMs
+#show downloads: true
+theme: jekyll-theme-minimal
