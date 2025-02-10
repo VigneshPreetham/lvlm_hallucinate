@@ -13,4 +13,6 @@ My Benchmark Data Collection
 ![SEQ_10_019_git-min](https://github.com/user-attachments/assets/f4d9ace1-c5f2-495d-b2cc-2c039c7fcdf4)
 
 After Undergoing Automatic Annotation With Zoom:
+
+
 ![store_logos_ft-ezgif com-crop](https://github.com/user-attachments/assets/ac1d553b-ebd5-4f3f-ac28-7670e07fd632)
